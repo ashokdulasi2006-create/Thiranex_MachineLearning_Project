@@ -15,4 +15,4 @@ Build a machine learning model to predict student marks based on study hours usi
 - prediction_chart.png
 
 ## Output
-The model predicts student marks and displays a graph comparing the data with the regression line.
+The model predicts student marks based on study hours and generates a visualization.
